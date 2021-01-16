@@ -1,4 +1,4 @@
-#Reinforcement Learning for American Put Options
+# Reinforcement Learning for American Put Options
 
 Pricing derivatives with American features remains a challenging and an interesting problem
 for the financial engineering community, where standard numerical methods such as finite
